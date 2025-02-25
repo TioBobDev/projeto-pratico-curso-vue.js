@@ -14,11 +14,7 @@ Sinta-se à vontade para explorar o código, sugerir melhorias ou utilizar este 
 
 Vue.js - Framework progressivo para construção de interfaces de usuário.
 
-Vuex - Gerenciamento de estado centralizado.
-
 Vue Router - Gerenciamento de rotas para navegação entre páginas.
-
-JavaScript (ES6+) - Para a lógica e interações.
 
 HTML5 & CSS3 - Para a estrutura e o estilo.
 
