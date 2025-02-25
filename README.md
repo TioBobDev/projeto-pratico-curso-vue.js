@@ -41,19 +41,32 @@ http://localhost:8080
 
 Estrutura do Projeto 📁
 
+Estrutura do Projeto 📁
+
 /
+
 ├── src
+
 │   ├── assets
+
 │   ├── components
+
 │   ├── views
-│   ├── store
+
 │   ├── router
+
 │   └── main.js
+
 ├── public
+
 ├── .gitignore
+
 ├── package.json
+
 ├── README.md
+
 └── vue.config.js
+
 
 ## Como Contribuir 🤝
 
